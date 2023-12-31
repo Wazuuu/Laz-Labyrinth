@@ -1,0 +1,5 @@
+C:\Users\william reyes\Documents\SharpDevelop Projects\Lazzz\Lazzz\bin\Debug\Lazzz.exe
+C:\Users\william reyes\Documents\SharpDevelop Projects\Lazzz\Lazzz\bin\Debug\Lazzz.pdb
+C:\Users\william reyes\Documents\SharpDevelop Projects\Lazzz\Lazzz\obj\Debug\Lazzz.csprojResolveAssemblyReference.cache
+C:\Users\william reyes\Documents\SharpDevelop Projects\Lazzz\Lazzz\obj\Debug\Lazzz.exe
+C:\Users\william reyes\Documents\SharpDevelop Projects\Lazzz\Lazzz\obj\Debug\Lazzz.pdb
